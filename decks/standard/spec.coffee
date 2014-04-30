@@ -1,3 +1,6 @@
+# This deck defines 4 types of objects
+module.exports = {Rank, Color, Suit, Card}
+
 # Color is just a basic empty object
 Color = 
 	BLACK: {}
@@ -53,5 +56,3 @@ for suitName, suit of Suit
 	for rankName, rank of Rank
 		$id = "#{rank.$id}#{suit.$id}"
 		Card["#{rankName}_#{suitName}"] = {$id, rank, suit, color: suit.color}
-
-module.exports = {Rank, Color, Suit, Card}
