@@ -1,12 +1,9 @@
 CardForest-Seeds
 =====
-CardForest-Seeds
-=====
 
 > a structured repository of playing cards.
 
 The sources in this repository are used to build the seeds website.
-
 Checkout the [actual website](http://cardforest.github.io/seeds/), its [sources](https://github.com/CardForest/seeds/tree/gh-pages), and the [build setup](https://github.com/CardForest/seeds-website).
 
 
