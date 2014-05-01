@@ -335,3 +335,12 @@ pre .hljs-chunk {
 pre .hljs-tex .hljs-formula {
   opacity: 0.5;
 }
+
+
+/* my additions */
+
+.edit-link {
+  font-family: "aller-light";
+  font-size: 17px;
+  text-transform: none;
+}
