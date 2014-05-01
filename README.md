@@ -22,4 +22,4 @@ In order to use those cards in your project you must use re-distribute this libr
     
     Licensed under LGPL 3 - http://www.gnu.org/copyleft/lesser.html
     
- The rider deck images where created by Pamela Coleman Smith and published in 1909. __To my understanding__, they are no longer under copyright, but I would do a legal review before any commercial use. 
+ The rider deck images where created by Pamela Coleman Smith and published in 1909. _To my understanding_, they are no longer under copyright, but I would do a legal review before any commercial use. 
