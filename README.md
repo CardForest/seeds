@@ -3,7 +3,7 @@ CardForest-Seeds
 
 > a structured repository of playing cards.
 
-The sources in this repository are assembled into the [seeds website](http://cardforest.github.io/seeds/) using a specialized [build setup](https://github.com/CardForest/seeds-website).
+The sources in this repository are assembled into the [seeds website](http://seeds.cardforest.com/) using a specialized [build setup](https://github.com/CardForest/seeds-website).
 
 
 License <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img height="31" alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> <a title="By User:ZyMOS (Open Icon Library) [Public domain], via Wikimedia Commons" href="http://commons.wikimedia.org/wiki/File%3ALicense_icon-lgpl-88x31.png"><img height="31" alt="License icon-lgpl-88x31" style="border-width:0" src="http://upload.wikimedia.org/wikipedia/commons/f/ff/License_icon-lgpl-88x31.png"/></a>
