@@ -1,0 +1,1 @@
+The **Rider-Waite tarot deck** is one of the most popular [tarot decks](http://en.wikipedia.org/wiki/Tarot) in use today in the english-speaking world

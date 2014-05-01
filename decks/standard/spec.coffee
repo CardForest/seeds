@@ -1,12 +1,4 @@
-# This deck defines 4 types of objects
-module.exports = {Rank, Color, Suit, Card}
-
-# Color is just a basic empty object
-Color = 
-	BLACK: {}
-	RED:   {}
-
-# Rank has a custom short id
+# Each card has a **rank**
 Rank =
 	ACE:
 		$id: 'A'
@@ -35,7 +27,11 @@ Rank =
 	KING:
 		$id: 'K'
 
-# Suit has a custom short id and has a color property
+# and a **colored** **suit**
+Color = 
+	BLACK: {}
+	RED:   {}
+
 Suit = 
 	CLUBS:
 		$id:   'C'
@@ -50,9 +46,12 @@ Suit =
 		$id:   'S'
 		color: Color.BLACK
 
-# the cards themselves 
+# that define it.
 Card = {}
 for suitName, suit of Suit
 	for rankName, rank of Rank
 		$id = "#{rank.$id}#{suit.$id}"
 		Card["#{rankName}_#{suitName}"] = {$id, rank, suit, color: suit.color}
+
+# #### PUBLIC API
+module.exports = {Rank, Color, Suit, Card}
